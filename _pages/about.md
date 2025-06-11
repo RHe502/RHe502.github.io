@@ -173,10 +173,8 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
   <dd><a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.html">[Paper]</a> <a href="https://github.com/ZHUANGHP/Analytic-continual-learning">[Codes]</a> </dd>
 </dl>
 
-<hr>
 
 ## Journal Papers
-
 <hr>
 
 <dl>
@@ -187,10 +185,8 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
   <dd><a href="https://www.sciencedirect.com/science/article/pii/S0016003224007063">[Paper]</a> </dd>
 </dl>
 
-<hr>
 
 ## Preprint
-
 <hr>
 
 <dl>
