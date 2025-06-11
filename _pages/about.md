@@ -120,7 +120,7 @@ I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph
   <dt><img align="left" width="400" src="../images/paper/afl.png" alt="Client As Navigator"></dt>
   <dd><a href="https://openaccess.thecvf.com/content/CVPR2025/html/He_AFL_A_Single-Round_Analytic_Approach_for_Federated_Learning_with_Pre-trained_CVPR_2025_paper.html" class="publication-title">AFL: A Single-Round Analytic Approach for Federated Learning with Pre-trained Models</a></dd>
   <dd> <strong>Run He</strong>, Kai Tong, Di Fang, Han Sun, Ziqian Zeng, Haoran Li, Tianyi Chen, Huiping Zhuang*</dd>
-  <dd>Proceedings of the Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2025</dd>
+  <dd>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2025</dd>
   <dd><a href="https://openaccess.thecvf.com/content/CVPR2025/html/He_AFL_A_Single-Round_Analytic_Approach_for_Federated_Learning_with_Pre-trained_CVPR_2025_paper.html">[Paper]</a> <a href="https://github.com/ZHUANGHP/
 Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.16240">[ArXiv]</a></dd>
 </dl>
@@ -169,7 +169,7 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
   <dt><img align="left" width="400" src="../images/paper/gkeal.png" alt="Client As Navigator"></dt>
   <dd><a href="https://openaccess.thecvf.com/content/CVPR2025/html/He_AFL_A_Single-Round_Analytic_Approach_for_Federated_Learning_with_Pre-trained_CVPR_2025_paper.html" class="publication-title">GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-Shot Class Incremental Task</a></dd>
   <dd> Huiping Zhuang*, Zhenyu Weng, <strong>Run He</strong>, Zhiping Lin, Ziqian Zeng</dd>
-  <dd>Proceedings of the Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2023</dd>
+  <dd>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2023</dd>
   <dd><a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.html">[Paper]</a> <a href="https://github.com/ZHUANGHP/Analytic-continual-learning">[Codes]</a> </dd>
 </dl>
 
