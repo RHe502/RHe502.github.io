@@ -208,16 +208,18 @@ Analytic subspace routing: How recursive least squares works in continual learni
 
 <hr>
 
+# 📖 Educations
+
+- *2023.09 - now*, Master in Control Science and Engineering,  [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
+- *2019.09 - 2023.07*, Bachelor in Robotic Engineering, [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
+
 <!-- # 🎖 Honors and Awards
 
 - *2024.09*: **Nominated Award** for college students' innovative and entrepreneurial works in 2024 China Cyber Security Innovation and Entrepreneurship Competition.
 - *2024.08*: **First Prize** in the 17th National College Student Information Security Contest, along with the **Most Innovative and Entrepreneurial Award** (Top 0.1% nation-wide).
 - *2024.05*: **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 
-# 📖 Educations
 
-- *2021.09 - now*, Undergraduate, [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), China.
-- *2018.09 - 2021.07*, Senior Middle School, [HuBei Wuchang Experimental High School](http://www.ssyzx.net/), China.
 
 # 👏 Miscellaneous
 
