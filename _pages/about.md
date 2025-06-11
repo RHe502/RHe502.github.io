@@ -208,7 +208,11 @@ Analytic subspace routing: How recursive least squares works in continual learni
 
 <hr>
 
-# 📖 Educations
+# Academic Service
+
+Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
+
+# Educations
 
 - *2023.09 - now*, Master in Control Science and Engineering,  [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
 - *2019.09 - 2023.07*, Bachelor in Robotic Engineering, [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
