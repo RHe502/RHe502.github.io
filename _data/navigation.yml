@@ -1,19 +1,19 @@
 # main links links
 main:
-  # - title: "About Me"
-  #   url: "/#about-me"
+  - title: "About Me"
+    url: "/#about-me"
 
-  # - title: "Latest News"
-  #   url: "/#latest-news"
+  - title: "Latest News"
+    url: "/#latest-news"
 
-  # - title: "Publications"
-  #   url: "/#-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
+  # - title: "Academic Service"
+  #   url: "/#-academic-service"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Educations"
+    url: "/#-educations"
 
   # # - title: "Invited Talks"
   # #   url: "/#-invited-talks"
