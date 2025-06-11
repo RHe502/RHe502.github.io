@@ -110,7 +110,7 @@ I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph
   <dd><a href="https://arxiv.org/abs/2506.00816" class="publication-title">L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning</a></dd>
   <dd>Xiang Zhang, <strong>Run He</strong>, Chen Jiao, Di Fang, Ming Li, Ziqian Zeng, Cen Chen, Huiping Zhuang*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025 (accpeted)</dd>
-  <dd><a href="https://arxiv.org/abs/2506.00816">[ArXiv]</a> <a href="hhttps://github.com/scut-zx/L3A">[Codes]</a></a> </dd>
+  <dd><a href="https://arxiv.org/abs/2506.00816">[ArXiv]</a> <a href="hhttps://github.com/scut-zx/L3A">[Codes]</a> </dd>
 
 <hr>
 
