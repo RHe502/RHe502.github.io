@@ -100,8 +100,7 @@ Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
 
 \* : corresponding author
 
-#  Conference Papers
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/dpcr.png" alt="Client As Navigator"></dt>
@@ -180,10 +179,6 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
   <dd>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2023</dd>
   <dd><a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.html">[Paper]</a> <a href="https://github.com/ZHUANGHP/Analytic-continual-learning">[Codes]</a> </dd>
 </dl>
-
-<hr>
-
-# Journal Papers
 
 <hr>
 
