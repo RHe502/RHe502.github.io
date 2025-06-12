@@ -94,29 +94,6 @@ I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph
 
 Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
 
-#  Preprint
-
-<hr>
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
-  <dd><a href="https://arxiv.org/abs/2403.13522" class="publication-title">REAL: Representation Enhanced Analytic Learning for Exemplar-free Class-incremental Learning</a></dd>
-  <dd> <strong>Run He</strong>, Di Fang, Yizhu Chen, Kai Tong, Cen Chen, Yi Wang, Lap-pui Chau, Huiping Zhuang*</dd>
-  <dd><a href="https://arxiv.org/abs/2403.13522">[ArXiv]</a> </dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/asr.png" alt="Client As Navigator"></dt>
-  <dd><a href="https://arxiv.org/abs/2503.13575" class="publication-title">	
-Analytic subspace routing: How recursive least squares works in continual learning of large language model</a></dd>
-  <dd> Kai Tong, Kang Pan, Xiao Zhang, Erli Meng, <strong>Run He</strong>, Yawen Cui, Nuoyan Guo, Huiping Zhuang*</dd>
-  <dd><a href="https://arxiv.org/abs/2503.13575">[ArXiv]</a> </dd>
-</dl>
-
-<hr>
-
 #  Publications
 
 &dagger;: equal contribution
@@ -214,3 +191,26 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 </dl>
 
 <hr>
+
+## Preprint
+<hr>
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
+  <dd><a href="https://arxiv.org/abs/2403.13522" class="publication-title">REAL: Representation Enhanced Analytic Learning for Exemplar-free Class-incremental Learning</a></dd>
+  <dd> <strong>Run He</strong>, Di Fang, Yizhu Chen, Kai Tong, Cen Chen, Yi Wang, Lap-pui Chau, Huiping Zhuang*</dd>
+  <dd><a href="https://arxiv.org/abs/2403.13522">[ArXiv]</a> </dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/asr.png" alt="Client As Navigator"></dt>
+  <dd><a href="https://arxiv.org/abs/2503.13575" class="publication-title">	
+Analytic subspace routing: How recursive least squares works in continual learning of large language model</a></dd>
+  <dd> Kai Tong, Kang Pan, Xiao Zhang, Erli Meng, <strong>Run He</strong>, Yawen Cui, Nuoyan Guo, Huiping Zhuang*</dd>
+  <dd><a href="https://arxiv.org/abs/2503.13575">[ArXiv]</a> </dd>
+</dl>
+
+<hr>
+
+
