@@ -179,9 +179,19 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
   <dd>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2023</dd>
   <dd><a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.html">[Paper]</a> <a href="https://github.com/ZHUANGHP/Analytic-continual-learning">[Codes]</a> </dd>
 </dl>
+<hr>
 
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/jfi.png" alt="Client As Navigator"></dt>
+  <dd><a href="https://www.sciencedirect.com/science/article/pii/S0016003224007063" class="publication-title">Class incremental learning with analytic learning for hyperspectral image classification</a></dd>
+  <dd> Huiping Zhuang, Yue Yan, <strong>Run He</strong>, Ziqian Zeng*</dd>
+  <dd> Journal of the Franklin Institute (JCR Q1), Volume 361, Issue 18, 2024 </dd>
+  <dd><a href="https://www.sciencedirect.com/science/article/pii/S0016003224007063">[Paper]</a> </dd>
+</dl>
 
-## Preprint
+<hr>
+
+**Preprint**
 <hr>
 <dl>
   <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
