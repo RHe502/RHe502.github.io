@@ -73,7 +73,7 @@ Hi there! My name is Run He(Chinese: 何润), and I'm currently a second year ma
 
 My research includes **Continual Learning**, **Federated Learning**, and **Large Language Models**. My current reserach mainly focus on the continual learning of (Multi-modal) large language models.
 
-I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph.D. position in 2026Fall**. Please feel free to  contact me via email or **Wechat: H-359754814**, if you are interested in collaborating with me or recruiting me 😊. Here is my [CV](https://rhe502.github.io/RunHe_CV.pdf).
+I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph.D. position in 2026Fall**. Please feel free to  contact me via **E-Mail: 202320160030@mail.scut.edu.cn** or **Wechat: H-359754814**, if you are interested in collaborating with me or recruiting me 😊. Here is my [CV](https://rhe502.github.io/RunHe_CV.pdf).
 
 #  Latest News
 
