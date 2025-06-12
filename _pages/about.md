@@ -100,6 +100,8 @@ Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
 
 \* : corresponding author
 
+##  Conference Papers
+
 <hr>
 
 <dl>
@@ -182,6 +184,8 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 </dl>
 <hr>
 
+## Journal Papers
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/jfi.png" alt="Client As Navigator"></dt>
   <dd><a href="https://www.sciencedirect.com/science/article/pii/S0016003224007063" class="publication-title">Class incremental learning with analytic learning for hyperspectral image classification</a></dd>
@@ -192,7 +196,8 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 
 <hr>
 
-## Preprint
+# Preprint
+
 <hr>
 <dl>
   <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
