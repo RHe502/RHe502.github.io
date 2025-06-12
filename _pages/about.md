@@ -102,7 +102,6 @@ Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
 
 #  Conference Papers
 
-<hr>
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/dpcr.png" alt="Client As Navigator"></dt>
