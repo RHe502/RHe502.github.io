@@ -119,6 +119,7 @@ Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
   <dd>Xiang Zhang, <strong>Run He</strong>, Chen Jiao, Di Fang, Ming Li, Ziqian Zeng, Cen Chen, Huiping Zhuang*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025 (accpeted)</dd>
   <dd><a href="https://arxiv.org/abs/2506.00816">[ArXiv]</a> <a href="hhttps://github.com/scut-zx/L3A">[Codes]</a> </dd>
+</dl>  
 <hr>
 
 <dl>
@@ -191,7 +192,7 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 
 <hr>
 
-**Preprint**
+## Preprint
 <hr>
 <dl>
   <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
