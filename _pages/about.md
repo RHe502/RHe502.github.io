@@ -69,7 +69,7 @@ redirect_from:
 
 #  About Me
 
-Hi there! My name is Run He(Chinese: 何润), and I'm currently a second year master student at the [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/). I am currently advised by Assoc. Prof. [Huiping Zhuang]([zhuanghp.github.io](https://zhuanghp.github.io/)). Before my matser, I obtained my bachelor's degree at the same school of WUSIE, SCUT in June, 2023.
+Hi there! My name is Run He(Chinese: 何润), and I'm currently a second year master student at the [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/). I am currently advised by Assoc. Prof. [Huiping Zhuang](https://zhuanghp.github.io/). Before my matser, I obtained my bachelor's degree at the same school of WUSIE, SCUT in June, 2023.
 
 My research includes **Continual Learning**, **Federated Learning**, and **Large Language Models**. My current reserach mainly focus on the continual learning of (Multi-modal) large language models.
 
