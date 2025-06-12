@@ -85,6 +85,15 @@ I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph
 </ul>
 </div>
 
+#  Educations
+
+- *2023.09 - now*, Master in Control Science and Engineering,  [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
+- *2019.09 - 2023.07*, Bachelor in Robotic Engineering, [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
+
+#  Academic Service
+
+Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
+
 #  Publications
 
 &dagger;: equal contribution
@@ -175,7 +184,7 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 
 <hr>
 
-##  Journal Papers
+# Journal Papers
 
 <hr>
 
@@ -189,7 +198,7 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 
 <hr>
 
-##  Preprint
+#  Preprint
 
 <hr>
 
@@ -211,12 +220,3 @@ Analytic subspace routing: How recursive least squares works in continual learni
 </dl>
 
 <hr>
-
-#  Academic Service
-
-Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
-
-#  Educations
-
-- *2023.09 - now*, Master in Control Science and Engineering,  [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
-- *2019.09 - 2023.07*, Bachelor in Robotic Engineering, [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
