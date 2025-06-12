@@ -71,9 +71,9 @@ redirect_from:
 
 Hi there! My name is Run He(Chinese: 何润), and I'm currently a second year master student at the [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/). I am currently advised by Assoc. Prof. [Huiping Zhuang](https://zhuanghp.github.io/). Before my matser, I obtained my bachelor's degree at the same school of WUSIE, SCUT in June, 2023.
 
-My research includes **Continual Learning**, **Federated Learning**, and **Large Language Models**. My current reserach mainly focus on the continual learning of (Multi-modal) large language models.
+My research includes **Continual Learning**, **Federated Learning**, and **Large Language Models**. My current reserach mainly focus on the continual learning of large models.
 
-I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph.D. position in 2026Fall**. Please feel free to  contact me via **E-Mail: 202320160030@mail.scut.edu.cn** or **Wechat: H-359754814**, if you are interested in collaborating with me or recruiting me 😊. Here is my [CV](https://rhe502.github.io/RunHe_CV.pdf).
+I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph.D. position in 2026Fall**. Please feel free to  contact me via **Email:wirh@mail.scut.edu.cn** or **Wechat: H-359754814** if you are interested in collaborating with me or recruiting me 😊. Here is my [CV](https://rhe502.github.io/RunHe_CV.pdf).
 
 #  Latest News
 
@@ -91,7 +91,8 @@ I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph
 
 \* : corresponding author
 
-## Conference Papers
+##  Conference Papers
+
 <hr>
 
 <dl>
@@ -103,18 +104,15 @@ I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph
 </dl>
 
 
-
 <hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/l3a.png" alt="Client As Navigator"></dt>
   <dd><a href="https://arxiv.org/abs/2506.00816" class="publication-title">L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning</a></dd>
   <dd>Xiang Zhang, <strong>Run He</strong>, Chen Jiao, Di Fang, Ming Li, Ziqian Zeng, Cen Chen, Huiping Zhuang*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025 (accpeted)</dd>
   <dd><a href="https://arxiv.org/abs/2506.00816">[ArXiv]</a> <a href="hhttps://github.com/scut-zx/L3A">[Codes]</a> </dd>
-
 <hr>
-
-
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/afl.png" alt="Client As Navigator"></dt>
@@ -136,6 +134,7 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 </dl>
 
 <hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/gacl.png" alt="Client As Navigator"></dt>
   <dd><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/9713d53ee4f31781304b1ca43266f8d1-Abstract-Conference.html" class="publication-title">GACL: Exemplar-Free Generalized Analytic Continual Learning</a></dd>
@@ -145,6 +144,7 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 </dl>
 
 <hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/dsal.png" alt="Client As Navigator"></dt>
   <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29670" class="publication-title">DS-AL: A Dual-Stream Analytic Learning for Exemplar-Free Class-Incremental Learning</a></dd>
@@ -172,9 +172,11 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
   <dd>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2023</dd>
   <dd><a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.html">[Paper]</a> <a href="https://github.com/ZHUANGHP/Analytic-continual-learning">[Codes]</a> </dd>
 </dl>
+
 <hr>
 
-# Journal Papers
+##  Journal Papers
+
 <hr>
 
 <dl>
@@ -185,8 +187,10 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
   <dd><a href="https://www.sciencedirect.com/science/article/pii/S0016003224007063">[Paper]</a> </dd>
 </dl>
 
+<hr>
 
-## Preprint
+##  Preprint
+
 <hr>
 
 <dl>
@@ -208,32 +212,11 @@ Analytic subspace routing: How recursive least squares works in continual learni
 
 <hr>
 
-# Academic Service
+#  Academic Service
 
 Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
 
-# Educations
+#  Educations
 
 - *2023.09 - now*, Master in Control Science and Engineering,  [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
 - *2019.09 - 2023.07*, Bachelor in Robotic Engineering, [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), Guangzhou China.
-
-<!-- # 🎖 Honors and Awards
-
-- *2024.09*: **Nominated Award** for college students' innovative and entrepreneurial works in 2024 China Cyber Security Innovation and Entrepreneurship Competition.
-- *2024.08*: **First Prize** in the 17th National College Student Information Security Contest, along with the **Most Innovative and Entrepreneurial Award** (Top 0.1% nation-wide).
-- *2024.05*: **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
-
-
-
-# 👏 Miscellaneous
-
-- I am an avid music and band enthusiast. I enjoy exploring various musical styles, with a particular love for shoegaze, city pop, and blues. Music is an integral part of my life that fuels my creativity and inspires my work.
-- My girlfriend and I have two adorable cats named Fatbo (肥波) and Summer. They are both funny and have brought a lot of fun to our lives!
-
-<div class="image-container">
-  <img src="../images/feibo.png" alt="feibo">
-  <img src="../images/summer.png" alt="summer">
-  <img src="../images/both.png" alt="both">
-</div>
-
-<dl><a href='https://clustrmaps.com/site/1c1oq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=249&t=n&d=h5lx_Ybs49JASMrcjH8-PjkN3166nxu4guwvRIJpN4Y'/></a></dl> -->
