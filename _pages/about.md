@@ -71,7 +71,7 @@ redirect_from:
 
 Hi there! My name is Run He(Chinese: 何润), and I'm currently a second year master student at the [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/). I am currently advised by Assoc. Prof. [Huiping Zhuang](https://zhuanghp.github.io/). Before my matser, I obtained my bachelor's degree at the same school of WUSIE, SCUT in June, 2023.
 
-My research includes **Continual Learning**, **Federated Learning**, and **Large Language Models**. My current reserach mainly focus on the continual learning of large models.
+My research interest includes **Continual Learning**, **Federated Learning (Model Merging)**, **Large Language Models**, and **Embodied Intelligence**. My current reserach mainly focus on the continual learning of large models and embodied agents.
 
 I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph.D. position in 2026Fall**. Please feel free to  contact me via **Email:wirh@mail.scut.edu.cn** or **Wechat: H-359754814** if you are interested in collaborating with me or recruiting me 😊. Here is my [CV](https://rhe502.github.io/RunHe_CV.pdf).
 
