@@ -79,7 +79,7 @@ I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.06:</em> Our paper about continual instruction tuning of LLMs are accpeted by <strong>ICCV 2025</strong>!</li>
+  <li><em>2025.06:</em> Our paper about continual instruction tuning of LLMs is accpeted by <strong>ICCV 2025</strong>!</li>
   <li><em>2025.05:</em> Two papers about continual learning are accpeted by <strong>ICML 2025</strong>!</li>
   <li><em>2025.02:</em> One paper focusing on federated learning is accepeted by  <strong>CVPR 2025</strong>. </li>
   <li><em>2024.09:</em> Two papers about continual learning are accpeted by <strong>NeurIPS 2024</strong>.</li>
