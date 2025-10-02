@@ -93,7 +93,7 @@ I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph
 
 #  Academic Service
 
-Invited as reviewer of Knowledge-Based System, NeurIPS 2025.
+Invited as reviewer of NeurIPS 2025, AAAI 2026, ICLR 2026, Knowledge-Based System, Neural Networks.
 
 #  Publications
 
