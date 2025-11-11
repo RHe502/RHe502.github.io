@@ -111,7 +111,7 @@ Invited as reviewer of NeurIPS 2025, AAAI 2026, ICLR 2026, Knowledge-Based Syste
 Analytic subspace routing: How recursive least squares works in continual learning of large language model</a></dd>
   <dd> Kai Tong, Kang Pan, Xiao Zhang, Erli Meng, <strong>Run He</strong>, Yawen Cui, Nuoyan Guo, Huiping Zhuang*</dd>
     <dd>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025 (accpeted)</dd>
-  <dd><a href="https://arxiv.org/abs/2503.13575">[ArXiv]</a> </dd>
+  <dd><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Tong_Any-SSR_How_Recursive_Least_Squares_Works_in_Continual_Learning_of_ICCV_2025_paper.html">[Paper]<a href="https://arxiv.org/abs/2503.13575">[ArXiv]</a> <a href="https://github.com/ZHUANGHP/Any-SSR">[Codes] </a></dd> 
 </dl>
 
 <hr>
@@ -122,7 +122,7 @@ Analytic subspace routing: How recursive least squares works in continual learni
   <dd><a href="https://arxiv.org/abs/2503.05423" class="publication-title">Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning</a></dd>
   <dd><strong>Run He</strong>, Di Fang, Yicheng Xu, Yawen Cui, Ming Li, Cen Chen, Ziqian Zeng, Huiping Zhuang*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025 (accpeted)</dd>
-  <dd><a href="https://arxiv.org/abs/2503.05423">[ArXiv]</a> <a href="https://github.com/RHe502/ICML25-DPCR">[Codes]</a></dd>
+  <dd><a href="https://proceedings.mlr.press/v267/he25d.html">[Paper]</a> <a href="https://arxiv.org/abs/2503.05423">[ArXiv]</a> <a href="https://github.com/RHe502/ICML25-DPCR">[Codes]</a></dd>
 </dl>
 
 
@@ -133,7 +133,7 @@ Analytic subspace routing: How recursive least squares works in continual learni
   <dd><a href="https://arxiv.org/abs/2506.00816" class="publication-title">L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning</a></dd>
   <dd>Xiang Zhang, <strong>Run He</strong>, Chen Jiao, Di Fang, Ming Li, Ziqian Zeng, Cen Chen, Huiping Zhuang*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025 (accpeted)</dd>
-  <dd><a href="https://arxiv.org/abs/2506.00816">[ArXiv]</a> <a href="hhttps://github.com/scut-zx/L3A">[Codes]</a> </dd>
+  <dd><a href="https://proceedings.mlr.press/v267/zhang25y.html">[Paper]</a><a href="https://arxiv.org/abs/2506.00816">[ArXiv]</a> <a href="hhttps://github.com/scut-zx/L3A">[Codes]</a> </dd>
 </dl>  
 <hr>
 
