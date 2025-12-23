@@ -204,11 +204,13 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
   <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
   <dd><a href="https://arxiv.org/abs/2403.13522" class="publication-title">REAL: Representation Enhanced Analytic Learning for Exemplar-free Class-incremental Learning</a></dd>
   <dd> <strong>Run He</strong>, Di Fang, Yizhu Chen, Kai Tong, Cen Chen, Yi Wang, Lap-pui Chau, Huiping Zhuang*</dd>
-  <dd>Knowledge-Based Systems, Volume 332, 15 January 2026, 114901 </dd>
+  <dd> Knowledge-Based Systems (JCR Q1), Volume 332, 15 January 2026, 114901 </dd>
   <dd><a href="(https://www.sciencedirect.com/science/article/pii/S0950705125019392)">[Paper]</a> </dd>
 </dl>
+
 <hr>
 <dl>
+  
   <dt><img align="left" width="400" src="../images/paper/jfi.png" alt="Client As Navigator"></dt>
   <dd><a href="https://www.sciencedirect.com/science/article/pii/S0016003224007063" class="publication-title">Class incremental learning with analytic learning for hyperspectral image classification</a></dd>
   <dd> Huiping Zhuang, Yue Yan, <strong>Run He</strong>, Ziqian Zeng*</dd>
