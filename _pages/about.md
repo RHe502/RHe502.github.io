@@ -129,8 +129,7 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/asr.png" alt="Client As Navigator"></dt>
-  <dd><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Tong_Any-SSR_How_Recursive_Least_Squares_Works_in_Continual_Learning_of_ICCV_2025_paper.html" class="publication-title">	
-Any-SSR: How recursive least squares works in continual learning of large language model</a></dd>
+  <dd><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Tong_Any-SSR_How_Recursive_Least_Squares_Works_in_Continual_Learning_of_ICCV_2025_paper.html" class="publication-title">Any-SSR: How recursive least squares works in continual learning of large language model</a></dd>
   <dd> Kai Tong, Kang Pan, Xiao Zhang, Erli Meng, <strong>Run He</strong>, Yawen Cui, Nuoyan Guo, Huiping Zhuang*</dd>
     <dd>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025</dd>
   <dd><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Tong_Any-SSR_How_Recursive_Least_Squares_Works_in_Continual_Learning_of_ICCV_2025_paper.html">[Paper] <a href="https://github.com/ZHUANGHP/Any-SSR">[Codes] </a> <a href="https://arxiv.org/abs/2503.13575">[ArXiv]</a> </dd> 
@@ -205,6 +204,7 @@ Any-SSR: How recursive least squares works in continual learning of large langua
   <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
   <dd><a href="https://arxiv.org/abs/2403.13522" class="publication-title">REAL: Representation Enhanced Analytic Learning for Exemplar-free Class-incremental Learning</a></dd>
   <dd> <strong>Run He</strong>, Di Fang, Yizhu Chen, Kai Tong, Cen Chen, Yi Wang, Lap-pui Chau, Huiping Zhuang*</dd>
+  <dd>Knowledge-Based Systems, Volume 332, 15 January 2026, 114901 </dd>
   <dd><a href="(https://www.sciencedirect.com/science/article/pii/S0950705125019392)">[Paper]</a> </dd>
 </dl>
 <hr>
