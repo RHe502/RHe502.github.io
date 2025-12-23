@@ -71,9 +71,9 @@ redirect_from:
 
 Hi there! My name is Run He(Chinese: 何润), and I'm currently a second year master student at the [Shien-Ming Wu School of Intelligent Engineering (WUSIE)](https://www2.scut.edu.cn/wusie/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/). I am currently advised by Assoc. Prof. [Huiping Zhuang](https://zhuanghp.github.io/). Before my matser, I obtained my bachelor's degree at the same school of WUSIE, SCUT in June, 2023.
 
-My research interest includes **Continual Learning**, **Federated Learning (Model Merging)**, **Large Language Models**, and **Embodied Intelligence**. My current reserach mainly focus on the continual learning of large models and embodied agents.
+My research interest includes **Continual Learning**, **Federated Learning (Model Merging)**, and **Large Language Models**. My current reserach mainly focus on the continual learning of large models.
 
-I am anticipated to graduate in June, 2026 and **I am currently looking for a Ph.D. position in 2026Fall**. Please feel free to  contact me via **Email:wirh@mail.scut.edu.cn** or **Wechat: H-359754814** if you are interested in collaborating with me or recruiting me 😊. Here is my [CV](https://rhe502.github.io/RunHe_CV.pdf).
+Please feel free to  contact me via **Email:wirh@mail.scut.edu.cn** or **Wechat: H-359754814** if you are interested in our works or collaborating with me 😊. Here is my [CV](https://rhe502.github.io/RunHe_CV.pdf).
 
 #  Latest News
 
@@ -199,24 +199,21 @@ Analytic-federated-learning">[Codes]</a> <a href="https://arxiv.org/abs/2405.162
 
 ## Journal Papers
 
+<hr>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
+  <dd><a href="https://arxiv.org/abs/2403.13522" class="publication-title">REAL: Representation Enhanced Analytic Learning for Exemplar-free Class-incremental Learning</a></dd>
+  <dd> <strong>Run He</strong>, Di Fang, Yizhu Chen, Kai Tong, Cen Chen, Yi Wang, Lap-pui Chau, Huiping Zhuang*</dd>
+  <dd><a href="(https://www.sciencedirect.com/science/article/pii/S0950705125019392)">[Paper]</a> </dd>
+</dl>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/jfi.png" alt="Client As Navigator"></dt>
   <dd><a href="https://www.sciencedirect.com/science/article/pii/S0016003224007063" class="publication-title">Class incremental learning with analytic learning for hyperspectral image classification</a></dd>
   <dd> Huiping Zhuang, Yue Yan, <strong>Run He</strong>, Ziqian Zeng*</dd>
   <dd> Journal of the Franklin Institute (JCR Q1), Volume 361, Issue 18, 2024 </dd>
   <dd><a href="https://www.sciencedirect.com/science/article/pii/S0016003224007063">[Paper]</a> </dd>
-</dl>
-
-<hr>
-
-# Preprint
-
-<hr>
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/real.png" alt="Client As Navigator"></dt>
-  <dd><a href="https://arxiv.org/abs/2403.13522" class="publication-title">REAL: Representation Enhanced Analytic Learning for Exemplar-free Class-incremental Learning</a></dd>
-  <dd> <strong>Run He</strong>, Di Fang, Yizhu Chen, Kai Tong, Cen Chen, Yi Wang, Lap-pui Chau, Huiping Zhuang*</dd>
-  <dd><a href="https://arxiv.org/abs/2403.13522">[ArXiv]</a> </dd>
 </dl>
 
 <hr>
